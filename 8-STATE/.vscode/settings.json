@@ -1,0 +1,5 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cSpell.words": ["secondnumber"],
+  "java.compile.nullAnalysis.mode": "automatic"
+}
